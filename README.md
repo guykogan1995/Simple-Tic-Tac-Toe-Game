@@ -101,4 +101,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Author
 
-This Tic-Tac-Toe game was developed by [Your Name].
+This Tic-Tac-Toe game was developed by Guy Kogan.
