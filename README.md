@@ -1,5 +1,3 @@
-Sure! Here's a README file for the updated code:
-
 # Tic-Tac-Toe Game
 
 This is a simple command-line implementation of the Tic-Tac-Toe game written in Java. It allows two players to take turns and play the game until there is a winner or a draw.
